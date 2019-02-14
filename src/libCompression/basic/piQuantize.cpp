@@ -1,0 +1,6 @@
+namespace piLibs
+{
+	namespace piQuantize
+	{
+	}
+}
